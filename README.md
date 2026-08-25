@@ -625,7 +625,11 @@ Logout
 
 **Development Environment:** XAMPP
 
+<<<<<<< HEAD
 **Developer:** Aasif
+=======
+**Developer:** Mohamed Aasif
+>>>>>>> 06bbb2f5fe7158b1d1aa983d8862a263280b6f41
 
 ## 📄 License
 
